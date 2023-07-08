@@ -82,6 +82,9 @@ margin-bottom: 20px;
   max-width: 1140px;
   margin: 0 auto;
 }
+main section{
+  margin-top: 130px;
+}
 
 
 /* about section style */
@@ -109,6 +112,38 @@ font-weight: 700;
   text-align: center;
 font-size: 18px;
 }
+/* skills related styles */
+
 #what-i-do-description{
   padding: 30px 150px;
+}
+.skill-container{
+  display: flex;
+  gap: 24px;
+}
+.skill{
+  padding: 50px;
+  border-radius: 5px;
+  background-color: #FFF;
+  box-shadow: 20px 6px 50px 20px #E6E6FA;
+}
+.img-icon{
+  height: 50px;
+  width: 50px;
+}
+.skill-description{
+  color: #757575;
+}
+.section-title{
+  text-align: center;
+}
+/* Resume section styles */
+.resume-column-title{
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+
+}
+.resume-cointainer{
+  display: flex;
 }
