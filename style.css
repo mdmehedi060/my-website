@@ -169,3 +169,19 @@ font-size: 18px;
   text-align: center;
   margin-top: 50px;
 }
+/* footer style */
+footer{
+  display: flex;
+  gap: 100px;
+  background-color: #FFF8F3;
+  padding: 130px 200px;
+  margin-top: 100px;
+}
+.iamges-logo{
+  height: 25px;
+  width: 25px;
+  padding: 10px;
+}
+.section-title{
+  
+}
