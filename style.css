@@ -146,4 +146,26 @@ font-size: 18px;
 }
 .resume-cointainer{
   display: flex;
+  gap: 100px;
+}
+.resume-item-descripition,.resume-item-institute{
+  color: #757575;
+}
+.resume-item-institute{
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+.resume-item-title{
+  color: #474747;
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.resume-cointainer hr{
+  margin: 30px;
+}
+.download-cv{
+  text-align: center;
+  margin-top: 50px;
 }
